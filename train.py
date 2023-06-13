@@ -69,7 +69,7 @@ class CustomConfig(Config):
     NUM_CLASSES = 1 + 2  # Background + number of your class
 
     # Number of training steps per epoch
-    STEPS_PER_EPOCH = 100
+    STEPS_PER_EPOCH = 10
 
     # Skip detections with < 90% confidence
     DETECTION_MIN_CONFIDENCE = 0.9
