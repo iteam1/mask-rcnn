@@ -7,4 +7,4 @@ env
 *.h5
 *.pb
 
-pretrain_model
+logs
