@@ -19,7 +19,7 @@ train mask-rcnn custom dataset
 
 # pretrain model
 
-Download coco weights : https://github.com/matterport/Mask_RCNN/releases/tag/v1.0
+Download coco weights: `wget --quiet https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5`
 
 # references
 
