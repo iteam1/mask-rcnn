@@ -7,6 +7,16 @@ train mask-rcnn custom dataset
 - `python=3.6`
 - `tensorflow 1.x`
 
+# guides
+
+`pip install --upgrade pip setuptools wheel`
+
+`pip install -r Mask_RCNN/requirements.txt`
+
+`cd Mask_RCNN && python setup.py install`
+
+`python3 train.py --dataset dataset --weights=pretrain_model/mask_rcnn_coco.h5`
+
 # pretrain model
 
 Download coco weights : https://github.com/matterport/Mask_RCNN/releases/tag/v1.0

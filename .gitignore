@@ -3,3 +3,8 @@ env
 *.tar
 *.rar
 *.zip
+
+*.h5
+*.pb
+
+pretrain_model
