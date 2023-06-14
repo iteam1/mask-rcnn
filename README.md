@@ -15,7 +15,7 @@ train mask-rcnn custom dataset
 
 `cd Mask_RCNN && python setup.py install`
 
-`python3 train.py train --dataset=dataset --weights=mask_rcnn_coco.h5 --logs logs`
+`python3 train.py train --dataset=dataset --weights=coco --logs logs`
 
 # pretrain model
 
