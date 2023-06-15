@@ -1,6 +1,8 @@
 # mask-rcnn
 train mask-rcnn custom dataset
 
+![img](assets/Figure_1.png)
+
 # requirements
 
 - `miniconda`
